@@ -1,0 +1,121 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d71aa99e-f7a3-4bc9-8097-f7a9627ba694\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"dev\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitRewordedCommitMessages\">\r\n    <option name=\"commitMessagesMapping\">\r\n      <RewordedCommitMessageMapping>\r\n        <option name=\"originalMessage\" value=\"4\" />\r\n        <option name=\"rewordedMessage\" value=\"4&#10;&#10;&#10;5&#10;&#10;&#10;6\" />\r\n      </RewordedCommitMessageMapping>\r\n    </option>\r\n    <option name=\"currentCommit\" value=\"1\" />\r\n    <option name=\"onto\" value=\"e6d6368c0161af83ed9e7a0d8ea73558770b5568\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"29WdNogeX1ZuW2n2kjLyjntM9zp\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollFromSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent\" />\r\n  </component>\r\n  <component name=\"RebelAgentSelection\">\r\n    <selection>jr</selection>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d71aa99e-f7a3-4bc9-8097-f7a9627ba694\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1653232737909</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1653232737909</updated>\r\n      <workItem from=\"1653232741413\" duration=\"501000\" />\r\n      <workItem from=\"1653233266780\" duration=\"371000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"第一次提交\">\r\n      <created>1653232847051</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653232847051</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"第二次提交\">\r\n      <created>1653232962573</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653232962573</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"第三次提交\">\r\n      <created>1653233049701</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653233049701</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"第三次提交\">\r\n      <created>1653233148145</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653233148145</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"1\">\r\n      <created>1653233286890</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653233286890</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"2\">\r\n      <created>1653233295555</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653233295555</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"3\">\r\n      <created>1653233309146</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653233309146</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"4\">\r\n      <created>1653233391299</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653233391299</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"5\">\r\n      <created>1653233400442</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653233400442</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"5\">\r\n      <created>1653233408509</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653233408509</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"第一次提交\" />\r\n    <MESSAGE value=\"第二次提交\" />\r\n    <MESSAGE value=\"第三次提交\" />\r\n    <MESSAGE value=\"1\" />\r\n    <MESSAGE value=\"2\" />\r\n    <MESSAGE value=\"3\" />\r\n    <MESSAGE value=\"4\" />\r\n    <MESSAGE value=\"5\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"5\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f45c20f55f327221e51af177e9df94fd15156f15)
++++ b/.idea/workspace.xml	(date 1653234153075)
+@@ -18,12 +18,12 @@
+   <component name="GitRewordedCommitMessages">
+     <option name="commitMessagesMapping">
+       <RewordedCommitMessageMapping>
+-        <option name="originalMessage" value="4" />
+-        <option name="rewordedMessage" value="4&#10;&#10;&#10;5&#10;&#10;&#10;6" />
++        <option name="originalMessage" value="1" />
++        <option name="rewordedMessage" value="压缩&#10;&#10;&#10;2&#10;&#10;&#10;1" />
+       </RewordedCommitMessageMapping>
+     </option>
+     <option name="currentCommit" value="1" />
+-    <option name="onto" value="e6d6368c0161af83ed9e7a0d8ea73558770b5568" />
++    <option name="onto" value="f8ed2decc7c88748a0deadc795e3f817c030815f" />
+   </component>
+   <component name="ProjectId" id="29WdNogeX1ZuW2n2kjLyjntM9zp" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+@@ -35,6 +35,7 @@
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+@@ -52,7 +53,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1653232737909</updated>
+       <workItem from="1653232741413" duration="501000" />
+-      <workItem from="1653233266780" duration="371000" />
++      <workItem from="1653233266780" duration="845000" />
+     </task>
+     <task id="LOCAL-00001" summary="第一次提交">
+       <created>1653232847051</created>
+@@ -124,7 +125,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1653233408509</updated>
+     </task>
+-    <option name="localTasksCounter" value="11" />
++    <task id="LOCAL-00011" summary="一">
++      <created>1653233918890</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1653233918890</updated>
++    </task>
++    <task id="LOCAL-00012" summary="二">
++      <created>1653233931831</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1653233931831</updated>
++    </task>
++    <task id="LOCAL-00013" summary="二">
++      <created>1653233937804</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1653233937804</updated>
++    </task>
++    <option name="localTasksCounter" value="14" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -135,7 +157,34 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State />
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="HEAD" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="RECENT_FILTERS">
++      <map>
++        <entry key="Branch">
++          <value>
++            <list>
++              <RecentGroup>
++                <option name="FILTER_VALUES">
++                  <option value="HEAD" />
++                </option>
++              </RecentGroup>
++            </list>
+           </value>
+         </entry>
+       </map>
+@@ -151,6 +200,9 @@
+     <MESSAGE value="3" />
+     <MESSAGE value="4" />
+     <MESSAGE value="5" />
+-    <option name="LAST_COMMIT_MESSAGE" value="5" />
++    <MESSAGE value="一" />
++    <MESSAGE value="三" />
++    <MESSAGE value="新压缩&#10;&#10;二&#10;&#10;一" />
++    <option name="LAST_COMMIT_MESSAGE" value="三" />
+   </component>
+ </project>
+\ No newline at end of file
