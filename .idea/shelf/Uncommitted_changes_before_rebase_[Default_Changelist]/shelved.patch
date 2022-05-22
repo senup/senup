@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>### Hi there \uD83D\uDC4B\r\n\r\n<!--\r\n**senup/senup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.\r\n\r\nHere are some ideas to get you started:\r\n\r\n- \uD83D\uDD2D I’m currently working on ...\r\n- \uD83C\uDF31 I’m currently learning ...\r\n- \uD83D\uDC6F I’m looking to collaborate on ...\r\n- \uD83E\uDD14 I’m looking for help with ...\r\n- \uD83D\uDCAC Ask me about ...\r\n- \uD83D\uDCEB How to reach me: ...\r\n- \uD83D\uDE04 Pronouns: ...\r\n- ⚡ Fun fact: ...\r\n-->\r\n- Aaaaaaaaaaaaaaaa\r\n第一次提交\r\n  第二次\r\n  第三次提交
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 12f99fca74756131d3b8865b50aceaba77a49a47)
++++ b/README.md	(date 1653233093128)
+@@ -17,4 +17,5 @@
+ - Aaaaaaaaaaaaaaaa
+ 第一次提交
+   第二次
+-  第三次提交
+\ No newline at end of file
++  第三次提交
++  
+\ No newline at end of file
